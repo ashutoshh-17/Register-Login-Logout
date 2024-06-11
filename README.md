@@ -148,11 +148,11 @@ register-login-logout/
 Here are some screenshots of the application:
 
 <p align="center">
-  <img src="screenshots/homepage.png" alt="Home Page" width="250">
-  <img src="screenshots/register.png" alt="Register Page" width="250">
-  <img src="screenshots/login.png" alt="Login Page" width="250">
+  <img src="screenshots/homepage.png" alt="Home Page" width="350">
+  <img src="screenshots/register.png" alt="Register Page" width="350">
+  <img src="screenshots/login.png" alt="Login Page" width="350">
+  <img src="screenshots/welcome.png" alt="Welcome Page" width="350">
 </p>
-  <img src="screenshots/welcome.png" alt="Welcome Page" width="250">
 
 ## Contributing
 

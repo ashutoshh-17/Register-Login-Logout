@@ -1,6 +1,6 @@
 # Register-Login-Logout Project in Java
 
-Welcome to the Register-Login-Logout project! This project demonstrates a simple web application for user registration, login, and logout using Java. The application leverages JSP, Servlets, Apache Tomcat, Java I/O, Jakarta EE, and includes HTML and CSS for the frontend.
+Welcome to the Register-Login-Logout project! This project demonstrates a simple web application for user registration, login, and logout using Java. The application leverages JSP, Servlets, Apache Tomcat, Java I/O, and includes HTML and CSS for the frontend.
 
 ## Introduction
 
@@ -37,7 +37,7 @@ To set up the project on your local machine, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/register-login-logout.git
+    git clone https://github.com/ashutoshh-17/register-login-logout.git
     ```
 
 2. **Navigate to the project directory:**
@@ -151,8 +151,8 @@ Here are some screenshots of the application:
   <img src="screenshots/homepage.png" alt="Home Page" width="250">
   <img src="screenshots/register.png" alt="Register Page" width="250">
   <img src="screenshots/login.png" alt="Login Page" width="250">
-  <img src="screenshots/welcome.png" alt="Welcome Page" width="250">
 </p>
+  <img src="screenshots/welcome.png" alt="Welcome Page" width="250">
 
 ## Contributing
 

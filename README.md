@@ -162,4 +162,6 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 If you have any questions or feedback, feel free to contact me
 
+---
+
 Thank you for using the Register-Login-Logout project! Happy coding!
